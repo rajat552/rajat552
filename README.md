@@ -1,3 +1,4 @@
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 # 💫 About Me:
 I am a Computer Science Engineering student at the National Institute of Technology (NIT) Hamirpur with a strong interest in open-source development, web technologies, and AI-powered applications. I enjoy building practical software solutions and collaborating with developers through hackathons and open-source projects. Currently, I am contributing to the Boa JavaScript Engine and exploring modern technologies like Node.js, React, and generative AI to create impactful tools and applications.<br>
 
